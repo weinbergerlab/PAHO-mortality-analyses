@@ -1,3 +1,14 @@
+---
+layout: post
+title: Test markdown
+subtitle: Each post also has a subtitle
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [star, fork, follow]
+tags: [test]
+---
+
+In this simulation, we tested several methods for removing a specific type of bias: a change in mean incidence that occurs soon before introduction of the vaccine.
+
 Bias adjustment
 ================
 Dan Weinberger
