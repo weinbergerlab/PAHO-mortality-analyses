@@ -36,7 +36,7 @@ abline(v=100, lty=2)
 title('Simulated data')
 ```
 
-![](simulate_unbiasing_method_files/figure-markdown_github/unnamed-chunk-1-1.png)
+![](2018-09-13-simulate_unbiasing_method_files/figure-markdown_github/unnamed-chunk-1-1.png)
 
 Method 1: fit trend to pre period; extrapolate trend, and calculate pointwise RR
 --------------------------------------------------------------------------------
@@ -96,4 +96,4 @@ rr.mod3<- mod3.fit/ counter.fact
 These plots show the True RR (blue) and the Estimated RR (orange).
 ------------------------------------------------------------------
 
-![](simulate_unbiasing_method_files/figure-markdown_github/unnamed-chunk-5-1.png)
+![](2018-09-13-simulate_unbiasing_method_files/figure-markdown_github/unnamed-chunk-5-1.png)
