@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Evaluation of the impact of PCVs in Latin America
+title: About the study
 subtitle: A ten country analysis
 ---
 
