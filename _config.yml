@@ -21,7 +21,7 @@ description: PAHO mortality analyses
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  The study: "study"
   Resources:
     - PAHO: "https://www.paho.org/hq/index.php?lang=en"
     - Yale School of Public Health: "https://publichealth.yale.edu/"
