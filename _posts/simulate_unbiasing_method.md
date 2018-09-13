@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: Demo of method for unbiasing estimates
+subtitle: Unbiasing method
+gh-repo: weinbergerlab/PAHO-mortality-analyses
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [unbiasing]
 ---
 
 In this simulation, we tested several methods for removing a specific type of bias: a change in mean incidence that occurs soon before introduction of the vaccine.
