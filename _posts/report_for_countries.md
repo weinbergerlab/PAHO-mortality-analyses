@@ -1,3 +1,13 @@
+---
+title: "Estimated change in pneumonia mortality associated with the introduction of PCV10 In Brazil"
+author: "PAHO/Yale analysis team"
+date: "September 13, 2018"
+output:
+  github_document:
+    toc: true
+    toc_depth: 2
+---
+
 Estimated change in pneumonia mortality associated with the introduction of PCV10 In Brazil
 ================
 PAHO/Yale analysis team
