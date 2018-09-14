@@ -19,7 +19,7 @@ September 13, 2018
 Comparison of observed and expected number of cases
 ---------------------------------------------------
 
-![](https://github.com/weinbergerlab/PAHO-mortality-analyses/blob/gh-pages/_posts/2018-09-13-report_for_countries_files/figure-markdown_github/unnamed-chunk-2-1.png)
+![](_posts/2018-09-13-report_for_countries_files/figure-markdown_github/unnamed-chunk-2-1.png)
 
 Cumulative cases averted among children &lt;12months
 ----------------------------------------------------
